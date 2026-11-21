@@ -1,0 +1,9 @@
+venv/
+__pycache__/
+test_images/
+
+# Your personal photos and everything made from them stay OFF GitHub
+data/
+
+# NOTE: models/ is deliberately NOT ignored. The deployed app needs
+# models/quality_model.joblib
